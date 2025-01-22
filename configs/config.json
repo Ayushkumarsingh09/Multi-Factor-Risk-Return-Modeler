@@ -1,0 +1,5 @@
+{
+    "data_file_path": "data/inputs/historical_prices.csv",
+    "output_path": "data/outputs/",
+    "report_file": "data/outputs/reports/factor_analysis_report.txt"
+}
